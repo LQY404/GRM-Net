@@ -15,13 +15,13 @@ cd SparseR-CNN
 python setup.py build develop
 ```
 
-2. Train SparseR-CNN
+2. Train GRM-Net
 ```
 python projects/MRCNN/train_net.py --num-gpus 1 \
     --config-file projects/MRCNN/configs/maskrcnn_r_101_3x.yaml
 ```
 
-3. Evaluate SparseR-CNN
+3. Evaluate GRM-Net
 ```
 python projects/MRCNN/train_net.py --num-gpus 1 \
     --config-file projects/MRCNN/configs/maskrcnn_r_101_3x.yaml \
