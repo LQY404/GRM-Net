@@ -46,8 +46,5 @@ publisher = {The Eurographics Association},
 ISBN = {978-3-03868-190-8},
 DOI = {10.2312/pg.20221238}
 }
-  journal =  {arXiv preprint arXiv:2011.12450},
-  year    =  {2020}
-}
 
 ```
